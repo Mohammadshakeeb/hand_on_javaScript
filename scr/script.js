@@ -110,4 +110,5 @@ const myArray = ["shakeeb",17]
 const myArray = [["shakeeb",17],["ansari",18]];
 const myArray = [50, 60, 70];
 var myData=myArray[0];
-
+const myArray = [18, 64, 99];
+myArray[0]=45;
