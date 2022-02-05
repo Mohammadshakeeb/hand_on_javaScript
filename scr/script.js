@@ -108,3 +108,6 @@ const myAdverb = "quickly";
 const wordBlanks = "The "+myAdjective+ " "+myNoun+" "+myVerb+" "+ myAdverb;
 const myArray = ["shakeeb",17]
 const myArray = [["shakeeb",17],["ansari",18]];
+const myArray = [50, 60, 70];
+var myData=myArray[0];
+
