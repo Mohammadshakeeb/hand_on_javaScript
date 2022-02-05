@@ -24,3 +24,5 @@ let myVar = 11;
 
 // Only change code below this line
 myVar--;
+const ourDecimal = 5.7;
+var myDecimal=6.77;
