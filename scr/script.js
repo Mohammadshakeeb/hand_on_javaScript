@@ -106,3 +106,5 @@ const myAdverb = "quickly";
 
 // Only change code below this line
 const wordBlanks = "The "+myAdjective+ " "+myNoun+" "+myVerb+" "+ myAdverb;
+const myArray = ["shakeeb",17]
+
