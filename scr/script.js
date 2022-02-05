@@ -1,1 +1,2 @@
-var a=9;
+var fname="mohammad";
+var lname="shakeeb";
