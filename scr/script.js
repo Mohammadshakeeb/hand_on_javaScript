@@ -479,5 +479,15 @@ function nextInLine(arr, item) {
         answer = "stuff";
     }
 
-    
+    function sequentialSizes(val) {
+        let answer = "";
+        // Only change code below this line
+      
+      
+      
+        // Only change code above this line
+        return answer;
+      }
+      
+      sequentialSizes(1);
 
