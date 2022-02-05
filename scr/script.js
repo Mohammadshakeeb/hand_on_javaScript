@@ -151,5 +151,7 @@ const myList = [
       }
       functionWithArgs(1,2);
       functionWithArgs(7,9);
-
+      function timesFive(num){
+        return num*5;
+      }
 
